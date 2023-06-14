@@ -56,15 +56,6 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.MovieViewHol
         return movies.size();
     }
 
-
-
-
-
-
-
-
-
-
     public class MovieViewHolder extends RecyclerView.ViewHolder{
 
         ImageView posterImageView;
